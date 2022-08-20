@@ -1,0 +1,16 @@
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+.Logo{
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 2px;
+    margin: 10px 20px;
+    background-color: gray;
+    color: rgb(15, 2, 2);
+    text-shadow: 2px 1px 4px;
+    font-size: 40px;
+}

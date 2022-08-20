@@ -1,0 +1,14 @@
+.AuthorStyle{
+    display: flex;
+    margin:70px 0px 0px 70px;
+}
+.ImageStyle{
+    width: 70px;
+    margin-bottom:15px;
+}
+.postImage{
+    height: 330px;
+}
+.PostItem{
+    text-align: center;
+}

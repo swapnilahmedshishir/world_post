@@ -1,0 +1,10 @@
+.BoxItem{
+    border: 1px solid purple;
+    margin: 20px;
+    border-radius: 5px;
+}
+.commentText{
+    background-color: rgb(184, 182, 182);
+    padding: 10px;
+    border-radius: 5px;
+}
